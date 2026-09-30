@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SF_Switches")(type "KiCad")(uri "/home/gsailly/Downloads/ChargeurLIPO/SparkFun-KiCad-Libraries/Footprints/SF_Switches.pretty")(options "")(descr ""))
+  (lib (name "SF_Connectors")(type "KiCad")(uri "/home/gsailly/Downloads/ChargeurLIPO/SparkFun-KiCad-Libraries/Footprints/SF_Connectors.pretty")(options "")(descr ""))
+  (lib (name "inductance_buck_boost")(type "KiCad")(uri "${KIPRJMOD}/inductance_buck_boost/inductance_buck_boost.pretty")(options "")(descr ""))
+  (lib (name "regulateur_buck_boost")(type "KiCad")(uri "${KIPRJMOD}/regulateur/regulateur_buck_boost.pretty")(options "")(descr ""))
+)
